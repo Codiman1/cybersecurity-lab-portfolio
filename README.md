@@ -166,7 +166,7 @@ Cryptography     RSA · ECC · AES · Diffie-Hellman · Padding oracle attacks
 
 | Certification | Status | Provider |
 |---|---|---|
-| Certified in Cybersecurity (CC) | Exam scheduled June 23, 2026 | ISC2 / Pearson VUE |
+| Certified in Cybersecurity (CC) |
 | SOC Analyst Level 1 | In progress | HackTheBox Academy |
 
 ---
@@ -174,8 +174,6 @@ Cryptography     RSA · ECC · AES · Diffie-Hellman · Padding oracle attacks
 ## 📫 Contact
 
 **Ludovic Joan Siatou Tchouaffi**  
-📧 ludovicjoan.18@gmail.com  
-📍 Calgary, AB — Canadian Permanent Resident  
 🌐 [LinkedIn](https://linkedin.com/in/ludovic-jt)
 
 ---
